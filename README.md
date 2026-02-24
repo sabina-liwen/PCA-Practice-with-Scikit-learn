@@ -15,6 +15,11 @@ Key steps include:
 - Step-by-step visualizations (scores, loadings, correlation circle)  
 - Clarifying common pitfalls (standardization, interpretation of inertia, cos² vs. loadings)  
 
+## Versions
+This repository contains two versions of the notebook:
+- **CN version**: the original learning notes with Chinese annotations, created during the initial self-study phase.  
+- **EN version**: the English-annotated version, intended to make the content accessible to a broader audience.
+
 ## Tech stack
 - Python  
 - pandas, numpy  
